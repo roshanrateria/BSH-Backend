@@ -1,17 +1,13 @@
 # BSH-Backend
 
-## Overview
-
-No repository description is currently provided.
+Backend API for the IEM BSH Department website. The project includes application source, API routes, Prisma configuration, and Vercel deployment configuration.
 
 ## Technology
 
-JavaScript, HTML, Node.js
+- JavaScript
+- Node.js
+- Prisma
 
-## Repository contents
+## Run
 
-`.gitignore`, `api`, `package-lock.json`, `package.json`, `prisma`, `public`, `src`, `vercel.json`, `verify-data.js`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Install dependencies and use the development scripts in `package.json`.
